@@ -16,10 +16,10 @@ export default function Profile() {
                 <img src={logoImg} alt="Be the HERO"/>
                 <span>Bem vinda, APAD</span>
                 <Link className="button" to="/incidents/new">
-                Cadastrar novo caso</Link>
+                Cadastrar novo</Link>
 
                 <button type="button">
-                    <FiPower size={18} color="#E02041" />
+                    <FiPower size={38} color="#E02041" />
                 </button>
             </header>
 
